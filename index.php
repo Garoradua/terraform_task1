@@ -1,8 +1,8 @@
 Hello world
 
 <?php
-print `ifonfig`;
+print `ifconfig`;
 
 ?>
 
-<img src='/var/www/html/t.png' widht='200' height='200' >
+<img src='/var/www/html/t.png' width='200' height='200' />
