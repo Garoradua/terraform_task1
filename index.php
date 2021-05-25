@@ -2,6 +2,7 @@ Hello world
 <pre>
 <br>
 //hi
+//hello
 <?php
 print `ifconfig`;
 
